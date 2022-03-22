@@ -1,0 +1,138 @@
+body{
+    background-color: #fefefe;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+    padding: 0px;
+}
+.color-tex-h{
+    color: #3757D5;
+    }
+#title{
+    float: left;
+    padding-left: 50px;
+    height: 15px;
+    width: 150px;
+}
+#menu{
+    float: right;
+    font-size: 12px;
+    color: #6E7C93;
+    padding: 10px 25px 0px 0px;
+    background-color: #E6F4FC;
+    width: 475px; 
+}
+.clear{
+    clear: both;
+}
+.buttons{
+    background-color: #2949C7;
+    color: white;
+    position: relative;
+    margin-bottom: 5px;
+}
+.primero{
+    float: left;
+    text-align: justify;
+    width: 300px;
+    padding: 70px;
+}
+a{
+    text-decoration: none;
+    color:#9AA5B8 ;
+}
+#vaccine{
+    height: 600px;
+    width: 500px; 
+    float: right;
+    position: relative;
+}
+#table-vaccine{
+    border-spacing: 20px;
+    text-align: center;
+    position: relative;
+    top: 800%;
+    left: 10px;
+}
+.date-float{
+    position:relative;
+    height: 50px;
+    width: 800px;
+  }
+  #vaccines{
+      height: 200px;
+      width: 100%;
+  }
+  .segundo{
+      padding: 20px 150px;
+  }
+  #why-vaccine{
+      width: 400px;
+  }
+  #why-table{
+    border-spacing: 40px;
+    text-align:left;
+  }
+  #why-table td{
+    font-size: 15px;
+    color:#6D7B93 ;
+  }
+  .tercero{
+      float: right;
+      width: 500px;
+      font-size: 15px;
+      color:#6D7B93 ;
+  }
+  .tercero ul{
+    font-size: 18px;
+    color:black;
+    line-height: 35px;
+  }
+  #mask{
+      float: left;
+      width: 400px;
+      height: 400px;
+  }
+  #nurse{
+    float: right;
+    width: 400px;
+    height: 400px;
+  }
+  .cuarto{
+    width: 500px;
+    padding: 0px 80px;
+    font-size: 18px;
+    color:#6D7B93 ;
+  }
+  .cuarto p{
+      width: 350px;
+      display: inline;
+  }
+ .container{
+     height: 300px;
+     width: 300px;
+     margin: 10px;
+     padding: 10px;
+ }
+ .container div{
+     margin-bottom: 50px; 
+ }
+ .container span{
+     font-size:20px;
+     color: black;
+ }
+ .right{
+     float: right;
+ }
+ .left{
+     float: left;
+ }
+ .quinto-vacu{
+     width: 250px;
+     margin-left: 100px;
+ }
+.quinto table{
+    border-spacing: 10px;
+    text-align: center;
+    margin-right: 50px;
+    font-size: smaller;
+}
